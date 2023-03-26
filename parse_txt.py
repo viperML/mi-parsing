@@ -1,7 +1,5 @@
-import sys
 from typing import Dict
 import textract
-import openai
 from pathlib import Path
 
 pdfs_dir = (Path() / "priv").resolve()

@@ -1018,7 +1018,7 @@ use-chardet-on-py3 = ["chardet (>=3.0.2,<6)"]
 name = "ruff"
 version = "0.0.259"
 description = "An extremely fast Python linter, written in Rust."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 files = [
@@ -1311,4 +1311,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "129b5827ae1b1261b09921d9d18051f611508cd4c79d92c4edd3b2724018e837"
+content-hash = "4897455517defe224e3e8b375162469bd78af9aa7fb69a52e3719393d99b4068"
